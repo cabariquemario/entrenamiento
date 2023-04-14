@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ejemplo branch Mario Mario
+=======
+Ejemplo branch Main
+>>>>>>> a89430260a5ce4cb2e13065f31fe6f0373e3b003
